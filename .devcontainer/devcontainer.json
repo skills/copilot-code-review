@@ -16,7 +16,8 @@
         "GitHub.copilot",
         "GitHub.copilot-chat",
         "ms-python.python",
-        "ms-python.debugpy"      ]
+        "ms-python.debugpy"
+      ]
     }
   }
 }
