@@ -8,8 +8,8 @@ _Leverage GitHub Copilot code review to promote code quality and catch issues be
 - **What you'll learn**: How to use GitHub Copilot for automated code reviews, customize review criteria, and set up automatic reviews
 - **What you'll build**: You'll update the Mergington High School extracurricular activities website and customize Copilot to automatically review pull requests for you, enabling more teachers to contribute.
 - **Prerequisites**:
-
   - GitHub Copilot subscription (paid plan is required)
+  - **Copilot code review** enabled in [Copilot settings](https://github.com/settings/copilot/features)
   - Familiarity with reviewing code in pull requests
   - Familiarity with Codespaces, or [Code with Codespaces](https://github.com/skills/code-with-codespaces) Skills exercise
   - Familiarity with GitHub Copilot, or [Getting Started with GitHub](https://github.com/skills/getting-started-with-github-copilot) Skills exercise
