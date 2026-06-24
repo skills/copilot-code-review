@@ -6,6 +6,9 @@ Now, multiple teachers want to help develop new features. This is great, but you
 
 Before we implement automated code reviews with Copilot, it makes sense to try reviews locally in VS Code. This will help us better understand it, build our review criteria, and ensure all teacher-collaborators receive consistent feedback when they start contributing.
 
+> [!IMPORTANT]
+> **Copilot code review** is only available for paid subscriptions.
+
 ### 📖 Theory: GitHub Copilot Local Code Review
 
 GitHub Copilot can review your code directly in VS Code, providing immediate feedback on uncommitted changes. It even adds comments similar to the feedback in a pull request! This local review capability allows developers to catch issues before they even reach version control, improving code quality from the start. And maybe catch those embarrassing typos! 😅
@@ -94,6 +97,8 @@ Let's add a simple banner feature for teachers to make announcements and then as
    <img width="300" alt="screenshot of site with announcement banner" src="https://github.com/user-attachments/assets/6c52d550-d67b-4af9-99dd-e181695a4933"/>
 
    > 💡 **TIP:** There are 3 levels of review available: `unstaged changes` and `staged changes` and `uncommitted changes`
+
+   > 🪧 **Note:** If the review button is not visible, **Copilot code review** may be disabled in your [Copilot settings](https://github.com/settings/copilot/features), potentially from an organization policy.
 
 1. Expand the **Comments** panel to find a list of review feedback from Copilot.
 
